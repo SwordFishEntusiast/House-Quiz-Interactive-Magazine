@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    question: "A – Would you consider yourself to be a confident person overall? ",
+    question: "Would you consider yourself to be a confident person overall? ",
     answers: [
       { answer: "Not at all", points: 5 },
       { answer: "Not Quite", points: 4 },
