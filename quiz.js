@@ -143,7 +143,7 @@ switch(house) {
   ).textContent = `Your House is: ${"Green"}`;break;
 }
   //resultScreen.querySelector(".Red").textContent = `Red: ${wrongCount}`;
-  resultScreen.querySelector(".score").textContent = `Your score: ${total}`;
+  //resultScreen.querySelector(".score").textContent = `Your score: ${total}`;
    resultScreen.querySelector(".explanation").innerHTML = houseDesc;
 };
 
