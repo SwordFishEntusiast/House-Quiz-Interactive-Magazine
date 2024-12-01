@@ -1,5 +1,7 @@
 # House-Quiz-Interactive-Magazine
 
-#Download all 3 files into the same directory and run quiz.html through your browser.
+Download all 3 files into the same directory and run quiz.html through your browser.
 
-#The House Results overlapping on multiple tries is NOT a bug but an intended feature
+The House Results overlapping on multiple tries is NOT a bug but an intended feature.
+
+For Mobile Users download the quizM.html file and simply open that with your browser.
